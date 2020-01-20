@@ -2,6 +2,9 @@
 
 A container view controller that manages a tab bar selection interface, where the selection determines which content view to display.
 
+
+![GLTabBar Demo](demo/demo.gif)
+
 ### Architecture
 
 ##### Core
